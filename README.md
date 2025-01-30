@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kalyanram003
-- 👀 I’m interested in Java Fullstack Development and Cybersecurity
+- 👀 I’m interested in Devops and Cybersecurity
 - 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me https://www.linkedin.com/in/kalyan-ram1/...
 
