@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kalyanram003" />
 
 <h1 style="text-align: center;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+;Hi+There!+👋;+I'm+Kalyan+Ram!;+Welcome+to+my+Profile;+Coder;+I+am+a+software+developer;+Frontend+Developer;+Full+Stack+Developer;+Web+Developer;+Backend+Developer" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+;Hi+There!+👋;+I'm+Kalyan+Ram!;+Welcome+to+my+Profile;+Coder;+I+am+a+software+developer;+Java+Developer;+Backend+Developer" />
 </h1>
 
 
@@ -15,9 +15,9 @@
  
  🔭 I’m currently *a Student*
  
- 🌱 I’m currently learning *React, Express, Nodejs*
+ 🌱 I’m currently learning *Spring Boot, Terraform*
 
-💬 Ask me about *Node.js, React.... or anything [here](https://github.com/kalyanram003/kalyanram003)*
+💬 Ask me about *Spring Boot, Devops, Cloud Computing.... or anything [here](https://github.com/kalyanram003/kalyanram003)*
 
 
 
