@@ -15,7 +15,7 @@
  
  🔭 I’m currently *a Student*
  
- 🌱 I’m currently learning *Spring Boot, Terraform*
+ 🌱 I’m currently learning *Spring Boot*
 
 💬 Ask me about *Spring Boot, Devops, Cloud Computing.... or anything [here](https://github.com/kalyanram003/kalyanram003)*
 
