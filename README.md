@@ -175,23 +175,19 @@ public class KalyanRamNanduri {
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kalyanram003/kalyanram003/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalyanram003&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
 
 ---
 
-## 🎯 2025 Goals
+## 💡 Dev Quote of the Day
 
-```
-[ ] 🚀  Contribute to open-source Spring ecosystem
-[ ] 📝  Write about distributed systems on Dev.to / Hashnode
-[ ] 🌐  Build and launch a SaaS backend project
-[ ] ☁️  Achieve AWS Solutions Architect certification
-[ ] ⭐  Reach 100+ GitHub stars across projects
-```
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
 ---
 
